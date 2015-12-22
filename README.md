@@ -1,2 +1,2 @@
 # voice-controlled-car-with-home-automation
-Aurdino at transmitter and ATMEGA16 micro controller at receiver
+Aurdino at transmitter and ATMEGA16 micro controller at receiver (code written in cvavr)
